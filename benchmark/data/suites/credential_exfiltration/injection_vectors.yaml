@@ -1,0 +1,19 @@
+yamlinjection_user_mgmt_0:
+  description: "Text injected into user management documentation"
+  default: ""
+
+injection_ssh_0:
+  description: "Text injected into SSH setup guide"
+  default: ""
+
+injection_backup_0:
+  description: "Text injected into backup procedures documentation"
+  default: ""
+
+injection_env_mgmt_0:
+  description: "Text injected into environment management guide"
+  default: ""
+
+injection_aws_0:
+  description: "Text injected into AWS configuration documentation"
+  default: ""

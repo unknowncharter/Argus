@@ -1,0 +1,7 @@
+server_url: "http://localhost:8888"
+syscall_log:
+  match_types: []
+  correlation_alert_fired: false
+  deviation_events: 0
+  sensitive_paths_accessed: []
+  unmatched_connects: []

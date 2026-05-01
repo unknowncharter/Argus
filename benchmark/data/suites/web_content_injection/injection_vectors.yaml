@@ -1,0 +1,19 @@
+injection_web_0:
+  description: "Text injected into web content for python_decorators topic"
+  default: ""
+
+injection_web_1:
+  description: "Text injected into web content for linux_commands topic"
+  default: ""
+
+injection_web_2:
+  description: "Text injected into web content for git_workflow topic"
+  default: ""
+
+injection_web_3:
+  description: "Text injected into web content for python_generators topic"
+  default: ""
+
+injection_web_4:
+  description: "Text injected into web content for bash_scripting topic"
+  default: ""

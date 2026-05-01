@@ -1,0 +1,19 @@
+yamlinjection_cmd_setup_0:
+  description: "Text injected into Python setup guide"
+  default: ""
+
+injection_cmd_audit_0:
+  description: "Text injected into service audit documentation"
+  default: ""
+
+injection_cmd_monitor_0:
+  description: "Text injected into system monitoring guide"
+  default: ""
+
+injection_cmd_network_0:
+  description: "Text injected into network check guide"
+  default: ""
+
+injection_cmd_deps_0:
+  description: "Text injected into dependency audit guide"
+  default: ""

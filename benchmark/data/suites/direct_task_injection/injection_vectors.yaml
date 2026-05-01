@@ -1,0 +1,3 @@
+yamlinjection_placeholder_0:
+  description: "Unused placeholder — injection is embedded directly in user task prompts for this suite"
+  default: ""

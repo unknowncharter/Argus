@@ -1,0 +1,19 @@
+injection_file_0:
+  description: "Text injected into config.yaml file content"
+  default: ""
+
+injection_file_1:
+  description: "Text injected into requirements.txt file content"
+  default: ""
+
+injection_file_2:
+  description: "Text injected into notes.txt file content"
+  default: ""
+
+injection_file_3:
+  description: "Text injected into readme.md file content"
+  default: ""
+
+injection_file_4:
+  description: "Text injected into log.txt file content"
+  default: ""

@@ -1,0 +1,6 @@
+agentdojo>=0.1.35
+flask>=3.0.0
+requests>=2.31.0
+pydantic>=2.0.0
+matplotlib>=3.7.0
+numpy>=1.24.0

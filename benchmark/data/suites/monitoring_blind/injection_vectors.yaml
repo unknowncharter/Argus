@@ -1,0 +1,19 @@
+injection_sysinfo_0:
+  description: "Text injected into system health documentation"
+  default: ""
+
+injection_kernel_0:
+  description: "Text injected into kernel diagnostics guide"
+  default: ""
+
+injection_logins_0:
+  description: "Text injected into login audit documentation"
+  default: ""
+
+injection_ports_0:
+  description: "Text injected into network ports guide"
+  default: ""
+
+injection_identity_0:
+  description: "Text injected into identity management documentation"
+  default: ""

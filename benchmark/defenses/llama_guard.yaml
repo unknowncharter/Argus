@@ -1,0 +1,9 @@
+# Llama Guard defense: replace mini's default environment with one that
+# classifies every tool output through Llama Guard 4 (NVIDIA NIM) before
+# returning it to the agent. Unsafe outputs are replaced with a warning.
+#
+# This overrides only environment_class; all other mini.yaml settings
+# (system_template, observation_template, model_kwargs, etc.) are preserved
+# via mini's recursive config merge (-c mini.yaml -c llama_guard.yaml).
+environment:
+  environment_class: llama_guard_env.LlamaGuardLocalEnvironment

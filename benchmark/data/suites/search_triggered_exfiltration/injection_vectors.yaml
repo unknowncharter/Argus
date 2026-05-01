@@ -1,0 +1,19 @@
+yamlinjection_search_db_0:
+  description: "Text injected into search results for postgresql performance tuning"
+  default: ""
+
+injection_search_memory_0:
+  description: "Text injected into search results for python memory leak debugging"
+  default: ""
+
+injection_search_docker_0:
+  description: "Text injected into search results for docker security hardening"
+  default: ""
+
+injection_search_k8s_0:
+  description: "Text injected into search results for kubernetes service mesh"
+  default: ""
+
+injection_search_api_0:
+  description: "Text injected into search results for REST API authentication"
+  default: ""
